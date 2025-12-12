@@ -50,3 +50,8 @@ __pycache__/
 *.dylib
 
 # ————— Если есть какие‑то пакеты, которые не должны быть в репо — добавить вручную —————
+finetuned_llama3_cosmetology_model/
+llama3_cosmetology_output/
+local_model_dir/
+unsloth_compiled_cache/
+outputs/
